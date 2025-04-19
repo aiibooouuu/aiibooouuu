@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hamza  (aka aiibooouuu)
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  width="300" />
 </p>
 
 
@@ -25,7 +25,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![React Flow](https://img.shields.io/badge/ReactFlow-0B1120?style=for-the-badge&logo=react&logoColor=3B82F6)  ![Chart.js](https://img.shields.io/badge/Chart.js-B12649?style=for-the-badge&logo=chartdotjs&logoColor=white)  ![Vite](https://img.shields.io/badge/Vite-302B63?style=for-the-badge&logo=vite&logoColor=FFD62E)  ![GSAP](https://img.shields.io/badge/GSAP-3E8C00?style=for-the-badge&logo=greensock&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Databases & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-00437A?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-00437A?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### 🎨 Design  
 ![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -33,7 +34,16 @@
 ### 🐧 OS & Environment  
 ![Linux](https://img.shields.io/badge/Linux-202124?style=for-the-badge&logo=linux&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  ![KDE](https://img.shields.io/badge/KDE-1C99E0?style=for-the-badge&logo=kde&logoColor=white)  ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 
+
 ---
+
+## 📚 Currently Learning
+
+- ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) 🧪 Exploring 3D Web Dev with Three.js and model imports from Sketchfab
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ⚛️ Server-side rendering and hybrid apps with Next.js
+- ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 🎞️ Next-level animations using GSAP timelines
+- ![React](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white) 📦 Building reusable components and mastering custom hooks
+
 
 ## 🌐 Connect With Me
 
@@ -44,7 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Here’s what my repo grind looks like 💪
 
   <img src="https://github-readme-stats.vercel.app/api?username=aiibooouuu&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiibooouuu&theme=tokyonight" width="400" />
@@ -56,13 +66,7 @@
 
 - Can’t get into the coding zone unless there’s retro Bollywood music playing in the background 🎙️💻  
 - Always on a mission to discover fun, weird, and random VS Code extensions that somehow *just work™*  
-- Often spotted going hard in  [![CSS Battle](https://img.shields.io/badge/CSS%20Battle-141414?style=for-the-badge&logo=css3&logoColor=FF6C00)](https://cssbattle.dev/player/notblack)  for no reason 🧠🔥 
-
----
-
-## 🎶 My Favorite Retro Bollywood Playlist
-
-[Spotify Playlist Embed](https://open.spotify.com/playlist/37i9dQZF1DX4Wsbw3fA2Bw)
+- Often spotted going hard in  [![CSS Battle](https://img.shields.io/badge/CSS%20Battle-141414?style=for-the-badge&logo=css3&logoColor=FF6C00)](https://cssbattle.dev/player/notblack)  for no reason 🧠🔥 — always battling pixels
 
 ---
 
