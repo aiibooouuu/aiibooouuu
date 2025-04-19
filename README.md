@@ -68,8 +68,9 @@
 
 ## 🌐 Connect With Me
 
-- 📷 [Instagram](www.linkedin.com/in/abu-hamza-601a71276)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 📷 [Instagram]([https://instagram.com/yourusername](https://www.instagram.com/hhamza3705?igsh=cThlazZ3eHk1bnJq))  
+- 💼 [LinkedIn]([https://linkedin.com/in/abuhamza](https://www.linkedin.com/in/abu-hamza-601a71276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+
 - 🧠 [Portfolio (coming soon...)](#)
 
 ---
