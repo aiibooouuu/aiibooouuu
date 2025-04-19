@@ -1,7 +1,9 @@
-# 👋 Hey there, I'm AbuHamza AbuZafar (aka aiibooouuu)
+# 👋 Hey there, I'm Hamza  (aka aiibooouuu)
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+
+
 </p>
 
 
@@ -63,8 +65,6 @@
 ## 🎶 My Favorite Retro Bollywood Playlist
 
 [Spotify Playlist Embed](https://open.spotify.com/playlist/37i9dQZF1DX4Wsbw3fA2Bw)
-
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4Wsbw3fA2Bw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
