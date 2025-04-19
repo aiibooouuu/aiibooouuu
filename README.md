@@ -58,11 +58,13 @@
 - Can’t get into the coding zone unless there’s retro Bollywood music playing in the background 🎙️💻  
 - Always on a mission to discover fun, weird, and random VS Code extensions that somehow *just work™*  
 
+---
+
 ## 🎶 My Favorite Retro Bollywood Playlist
 
 [Spotify Playlist Embed](https://open.spotify.com/playlist/37i9dQZF1DX4Wsbw3fA2Bw)
 
----
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4Wsbw3fA2Bw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
@@ -70,4 +72,3 @@
 
 >💬 “Give up on your dreams and die.”  
 >— <strong>Shingeki no Kyojin (Attack on Titan)</strong>
-
