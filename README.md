@@ -14,36 +14,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [`QuakeSense`](https://github.com/aiibooouuu/QuakeSense2)  
-> github rep(https://github.com/aiibooouuu/QuakeSense2.git)
-
-- Earthquake Data Visualization Dashboard  
-- Pulls from USGS API and visualizes using Chart.js (Line, Bar, Box, ARIMA, Heatmap)  
-- Pure React.js front-end  
-- Not hosted yet
-
----
-
-### [`VastuYantra`](https://github.com/aiibooouuu/vastu-calculator)  
-> [Live Demo](https://vastu-yantra.vercel.app)
-
-- 🧭 Vastu score calculator for homes using 3x3 directional input  
-- Displays remedies, ideal placement, and direction-based suggestions  
-- Fully styled using Custom CSS, React, and consistent themes across pages  
-
----
-
-### [`Rotaract CRCE Website`](https://github.com/aiibooouuu/rotaract-crce-portal)  
-> [Live Demo](https://rotaractinterview25.vercel.app)
-
-- 🛠 Application portal for Junior/Senior Council interviews  
-- Features futuristic holographic UI, multi-step form, PDF upload, and dynamic form rendering  
-- Built using React, Tailwind, custom checkbox animation, and conditional routing  
-
----
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming & Web Technologies  
@@ -68,19 +38,19 @@
 
 ## 🌐 Connect With Me
 
-- 📷 [Instagram](https://instagram.com/hhamza3705)  
-- 💼 [LinkedIn](https://linkedin.com/in/abu-hamza-601a71276)
-
-- 🧠 [Portfolio (coming soon...)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhamza3705)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-hamza-601a71276)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abuhamza0705@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=aiibooouuu&color=blueviolet&style=flat-square)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aiibooouuu&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiibooouuu&theme=tokyonight" width="400" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibooouuu&layout=compact&theme=tokyonight" width="400" />  
+
 
 ---
 
