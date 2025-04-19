@@ -1,8 +1,9 @@
 # 👋 Hey there, I'm AbuHamza AbuZafar (aka aiibooouuu)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
+
 
 ## 🧠 About Me
 
@@ -10,7 +11,6 @@
 - 💡 Passionate about Front-End Development, Data Visualization, and Clean UI/UX  
 - 💬 React • Vite • Chart.js • Tailwind • Firebase (sometimes 😉)  
 - 🐧 Linux lover — currently working on a customized KDE Arch setup  
-- 🌱 Currently building: [`QuakeSense`](https://github.com/aiibooouuu/QuakeSense2) — Real-time earthquake data viz using USGS API  
 
 ---
 
@@ -21,7 +21,7 @@
 
 - Earthquake Data Visualization Dashboard  
 - Pulls from USGS API and visualizes using Chart.js (Line, Bar, Box, ARIMA, Heatmap)  
-- Pure React.js front-end
+- Pure React.js front-end  
 - Not hosted yet
 
 ---
@@ -47,48 +47,28 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming & Web Technologies  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)  ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white)
 
 ### 📊 Data & Analysis  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)  
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 🌐 Front-End  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![React Flow](https://img.shields.io/badge/-ReactFlow-3b82f6?style=flat-square&logo=react&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![React Flow](https://img.shields.io/badge/ReactFlow-0B1120?style=for-the-badge&logo=react&logoColor=3B82F6)  ![Chart.js](https://img.shields.io/badge/Chart.js-B12649?style=for-the-badge&logo=chartdotjs&logoColor=white)  ![Vite](https://img.shields.io/badge/Vite-302B63?style=for-the-badge&logo=vite&logoColor=FFD62E)  ![GSAP](https://img.shields.io/badge/GSAP-3E8C00?style=for-the-badge&logo=greensock&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Databases & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
-![pgAdmin 4](https://img.shields.io/badge/-pgAdmin%204-0064a5?style=flat-square&logo=postgresql&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5E8C?style=for-the-badge&logo=postgresql&logoColor=white)  ![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-00437A?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Design  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)  
+![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🐧 OS & Environment  
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)  
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux)  
-![KDE](https://img.shields.io/badge/-KDE-1C99E0?style=flat-square&logo=kde)  
-![GNOME](https://img.shields.io/badge/-GNOME-4A86CF?style=flat-square&logo=gnome)
+![Linux](https://img.shields.io/badge/Linux-202124?style=for-the-badge&logo=linux&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  ![KDE](https://img.shields.io/badge/KDE-1C99E0?style=for-the-badge&logo=kde&logoColor=white)  ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📷 [Instagram](https://instagram.com/yourusername)  
+- 📷 [Instagram](www.linkedin.com/in/abu-hamza-601a71276)  
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
 - 🧠 [Portfolio (coming soon...)](#)
 
