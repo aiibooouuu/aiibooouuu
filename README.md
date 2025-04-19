@@ -53,7 +53,21 @@
 
 
 ---
+### 🎧 Fun Coding Quirks
 
-### 🤝 Thanks for visiting!
-> **“Live by the ideology: ‘Give up on your dreams and die.’**  
-> — *Shingeki no Kyojin (Attack on Titan)*
+- Can’t get into the coding zone unless there’s retro Bollywood music playing in the background 🎙️💻  
+- Always on a mission to discover fun, weird, and random VS Code extensions that somehow *just work™*  
+
+## 🎶 My Favorite Retro Bollywood Playlist
+
+[Spotify Playlist Embed](https://open.spotify.com/playlist/37i9dQZF1DX4Wsbw3fA2Bw)
+
+---
+
+---
+
+### 🤫 If It Works, Don’t Touch It!
+
+>💬 “Give up on your dreams and die.”  
+>— <strong>Shingeki no Kyojin (Attack on Titan)</strong>
+
