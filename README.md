@@ -54,7 +54,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=aiibooouuu&color=blueviolet&style=flat-square)
 
 
-[![Download README](https://img.shields.io/badge/Download-README-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiibooouuu/your-repo-name/raw/main/README.md)
+[![Download README](https://img.shields.io/badge/Download-README-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiibooouuu/aiibooouuu/raw/main/README.md)
 
 ---
 
