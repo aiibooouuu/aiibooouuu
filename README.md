@@ -68,8 +68,8 @@
 
 ## 🌐 Connect With Me
 
-- 📷 [Instagram](https://instagram.com/abuhamza)  
-- 💼 [LinkedIn](https://linkedin.com/in/hhamza3705)
+- 📷 [Instagram](https://instagram.com/hhamza3705)  
+- 💼 [LinkedIn](https://linkedin.com/in/abuhamza)
 
 - 🧠 [Portfolio (coming soon...)](#)
 
