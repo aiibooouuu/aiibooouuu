@@ -53,9 +53,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abuhamza0705@gmail.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=aiibooouuu&color=blueviolet&style=flat-square)
 
-
-[![Download README](https://img.shields.io/badge/Download-README-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiibooouuu/aiibooouuu/raw/main/README.md)
-
 ---
 
 ## 📈 Here’s what my repo grind looks like 💪
