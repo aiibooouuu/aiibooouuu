@@ -1,9 +1,6 @@
 # 👋 Hey there, I'm Hamza  (aka aiibooouuu)
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-
-
 </p>
 
 
@@ -59,6 +56,7 @@
 
 - Can’t get into the coding zone unless there’s retro Bollywood music playing in the background 🎙️💻  
 - Always on a mission to discover fun, weird, and random VS Code extensions that somehow *just work™*  
+- Often spotted going hard in  [![CSS Battle](https://img.shields.io/badge/CSS%20Battle-141414?style=for-the-badge&logo=css3&logoColor=FF6C00)](https://cssbattle.dev/player/notblack)  for no reason 🧠🔥 
 
 ---
 
