@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aiibooouuu&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiibooouuu&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibooouuu&layout=compact&theme=tokyonight" width="400" />  
-  ![snake gif](https://raw.githubusercontent.com/aiibooouuu/snk/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://aiibooouuu.github.io/snk/github-contribution-grid-snake.svg)
 
 
 ---
