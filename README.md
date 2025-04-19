@@ -10,18 +10,37 @@
 - 💡 Passionate about Front-End Development, Data Visualization, and Clean UI/UX
 - 🔥 Active member of Rotaract CRCE | Event Planner & Tech Enthusiast
 - 💬 React • Vite • Chart.js • Tailwind • Firebase (sometimes 😉)
+- 🐧 Linux lover — currently working on a customized KDE Arch setup
 - 🌱 Currently building: [`QuakeSense`](https://github.com/aiibooouuu/QuakeSense2) — Real-time earthquake data viz using USGS API
 
 ---
 
 ## 🚀 Projects
 
-### [`QuakeSense`](https://github.com/aiibooouuu/QuakeSense2)
-> A smart dashboard that fetches & visualizes earthquake data from the USGS API using 📈 Chart.js. ARIMA predictions, heatmaps, scatter plots — all in one place.
+### [`QuakeSense`](https://github.com/aiibooouuu/QuakeSense2)  
+> [Live Demo](https://quake-sense2.vercel.app)
 
-- Tech Stack: React.js, Vite, Chart.js
-- Visualizations: Heatmaps, Box Plots, Line Charts, ARIMA Predictions
-- No backend, no Firebase — just pure front-end magic
+- Real-time Earthquake Data Visualization Dashboard
+- Pulls from USGS API and visualizes using Chart.js (Line, Bar, Box, ARIMA, Heatmap)
+- Pure React.js front-end — no backend or Firebase
+
+---
+
+### [`VastuYantra`](https://github.com/aiibooouuu/vastu-calculator)  
+> [Live Demo](https://vastu-yantra.vercel.app)
+
+- 🧭 Vastu score calculator for homes using 3x3 directional input
+- Displays remedies, ideal placement, and direction-based suggestions
+- Fully styled using Tailwind, React, and consistent themes across pages
+
+---
+
+### [`Rotaract CRCE Website`](https://github.com/aiibooouuu/rotaract-crce-portal)  
+> [Live Demo](https://rotaractinterview25.vercel.app)
+
+- 🛠 Application portal for Junior/Senior Council interviews
+- Features futuristic holographic UI, multi-step form, PDF upload, and dynamic form rendering
+- Built using React, Tailwind, custom checkbox animation, and conditional routing
 
 ---
 
@@ -31,6 +50,10 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 📊 Data & Analysis
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib)
 
 ### 🌐 Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
@@ -52,6 +75,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)
 
+### 🐧 OS & Environment
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux)
+![KDE](https://img.shields.io/badge/-KDE-1C99E0?style=flat-square&logo=kde)
+
 ---
 
 ## 🌐 Connect With Me
@@ -71,7 +99,7 @@
 
 ---
 
-### 🤝 Thanks for stopping by!
+### 🤝 Thanks for visiting!
 _“Code with purpose. Visualize with clarity.”_
 
 ---
