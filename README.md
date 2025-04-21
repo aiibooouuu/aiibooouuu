@@ -7,11 +7,15 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering student attaining a degree in Artificial Intelligence and Data Science  
-- 💡 Passionate about Front-End Development, Data Visualization, and Clean UI/UX  
-- 💬 React • Vite • Chart.js • Tailwind • Firebase (sometimes 😉)  
-- 🐧 Linux lover — currently working on a customized KDE Arch setup  
+🎓 **Computer Engineering student** diving deep into the world of **Artificial Intelligence** and **Data Science**.  
+💡 **Passionate about:** Front-End Development, creating stunning Data Visualizations, and delivering sleek **UI/UX**.  
+💬 **Tech Stack**: React • Vite • Chart.js • Tailwind • Firebase (…sometimes 😉)  
 
+🐧 **Linux lover** — currently rocking a **customized KDE Arch setup** (because who needs a "stable" OS anyway?).  
+  
+✨ Always curious, experimenting, and making things look smooth and clean.
+
+Feel free to check out my projects below!
 ---
 
 ## 🛠 Tech Stack
